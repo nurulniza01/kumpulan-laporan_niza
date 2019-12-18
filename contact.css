@@ -1,0 +1,48 @@
+body {
+    background-image: url(water-1330252_1920.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.service-container {
+    color: aliceblue;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.service-body {
+    justify-content: center;
+    display: flex;
+    /* padding: 20px !important; */
+}
+
+.service-box {
+    font-size: 14px;
+    line-height: 1.5;
+    width: 550px;
+    padding: 14px 20px;
+    /* border: solid 1px gray; */
+    margin: 0 10px;
+    text-align: left;
+    background-color:#326ab4fd;
+    color: white;
+}
+
+.title {
+    font-size: 32px !important;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+}
+
+.btn {
+    font-size: 20px !important;
+    border: none;
+    background: transparent;
+    color: white;
+    border: solid 1px white;
+    padding: 5px 8px;
+    border-radius: 3px;
+    font-family: 'Alata', sans-serif;
+    cursor: pointer;
+}
